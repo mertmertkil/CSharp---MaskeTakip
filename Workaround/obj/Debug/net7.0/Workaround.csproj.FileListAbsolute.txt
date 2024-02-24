@@ -1,0 +1,14 @@
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/bin/Debug/net7.0/Workaround
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/bin/Debug/net7.0/Workaround.deps.json
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/bin/Debug/net7.0/Workaround.runtimeconfig.json
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/bin/Debug/net7.0/Workaround.dll
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/bin/Debug/net7.0/Workaround.pdb
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.AssemblyInfoInputs.cache
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.AssemblyInfo.cs
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.csproj.CoreCompileInputs.cache
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.dll
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/refint/Workaround.dll
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.pdb
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/Workaround.genruntimeconfig.cache
+/Users/cemremertmertkil/Projects/MaskeTakip/Workaround/obj/Debug/net7.0/ref/Workaround.dll

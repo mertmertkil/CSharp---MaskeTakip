@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeDKEa//yvQRw9JqFK+nf4jFpSpxs4UjIG4SA6CLSJR6rfaGLgFaoPFB4bH9668xmid4maFT9iwYaae1LQg/KA==",
+  "success": true,
+  "projectFilePath": "/Users/cemremertmertkil/Projects/MaskeTakip/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/cemremertmertkil/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
